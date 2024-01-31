@@ -1,5 +1,5 @@
-# DBS2Net
-Lightweight JPEG Image Steganalysis Using Dilated Blind-Spot Network
+# DBS2Net: Lightweight JPEG Image Steganalysis Using Dilated Blind-Spot Network
+
 Abstract: The primary goal of image steganalysis is to detect subtle steganographic signals hidden within
 digital images. An essential aspect of digital image steganalysis involves the extraction of meaningful
 steganographic signal features. However, existing JPEG steganalysis networks have not delved deep
